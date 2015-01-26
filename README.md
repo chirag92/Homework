@@ -1,2 +1,3 @@
 # Homework
 MD
+git init
